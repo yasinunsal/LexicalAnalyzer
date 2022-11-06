@@ -1,0 +1,9 @@
+a:=25;
+b:=22222333334;
+dizi[0]:= 3;
+i:=a+b;
+While(errorCheck){
+    i++;
+    continue;
+}
+return 0;
